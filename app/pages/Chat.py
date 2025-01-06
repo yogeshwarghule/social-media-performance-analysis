@@ -670,7 +670,7 @@ st.markdown(
         </div>
         <div class="footer-column">
             <h4>Contact Us</h4>
-            <p>Email: <a href="mailto:developxdave@gmail.com">developxdave@gmail.com</a></p>
+            <p>Email: <a href="mailto:yghule2001@gmail.com">yghule2001@gmail.com</a></p>
             <p>Developed by: Lentreo</p>
             <p>© 2025 SocialAnalytics. All rights reserved.</p>
         </div>
