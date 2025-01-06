@@ -21,7 +21,7 @@ The Social Media Analytics Tool is designed to help users analyze and gain insig
 ---
 
 ## Architecture Diagram
-![Architecture Diagram](architecture-diagram-placeholder.png)
+![Architecture Diagram](images/architecture-diagram.png.png)
 
 ---
 
