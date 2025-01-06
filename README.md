@@ -21,7 +21,7 @@ The Social Media Analytics Tool is designed to help users analyze and gain insig
 ---
 
 ## Architecture Diagram
-![Architecture Diagram](images/architecture-diagram.png.png)
+![Architecture Diagram](architecture-diagram-placeholder.png)
 
 ---
 
@@ -62,10 +62,23 @@ This streamlined workflow ensures users can seamlessly analyze and gain actionab
    cd social-media-performance-analysis
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Set Up a Python Virtual Environment:
+   - Install the virtual environment package:
+     ```bash
+     sudo apt install python3-venv -y
+     ```
+   - Create a virtual environment:
+     ```bash
+     python3 -m venv venv
+     ```
+   - Activate the virtual environment:
+     ```bash
+     source venv/bin/activate
+     ```
+   - Install the Python dependencies:
+     ```bash
+     pip install -r requirements.txt
+     ```
 
 3. Configure environment variables in a `.env` file:
    ```
@@ -76,6 +89,7 @@ This streamlined workflow ensures users can seamlessly analyze and gain actionab
 
 4. Run the application:
    ```bash
+   cd app
    streamlit run Home.py
    ```
 
