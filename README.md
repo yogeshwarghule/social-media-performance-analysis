@@ -76,7 +76,7 @@ This streamlined workflow ensures users can seamlessly analyze and gain actionab
 
 4. Run the application:
    ```bash
-   streamlit run home.py
+   streamlit run Home.py
    ```
 
 5. Access the application at the URL provided by Streamlit (e.g., `http://localhost:8501`).

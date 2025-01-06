@@ -1,0 +1,6 @@
+python-dotenv
+streamlit
+requests
+diskcache
+plotly
+extra-streamlit-components
