@@ -97,6 +97,7 @@ This streamlined workflow ensures users can seamlessly analyze and gain actionab
      ```
    - Install the Python dependencies:
      ```bash
+     cd app
      pip install -r requirements.txt
      ```
 
