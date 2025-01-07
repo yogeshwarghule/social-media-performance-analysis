@@ -25,6 +25,11 @@ The Social Media Analytics Tool is designed to help users analyze and gain insig
 
 ---
 
+## Flowchart Diagram
+![Flowchart Diagram](images/social_analytics.drawio.png)
+
+---
+
 ## Workflow of the Architecture
 1. **User Query**:
    - The user starts by entering a query (e.g., "How are carousel posts performing?") or selecting a post type for analysis on the Streamlit interface.
@@ -34,7 +39,7 @@ The Social Media Analytics Tool is designed to help users analyze and gain insig
 
 3. **Data Processing**:
    - The data is filtered and processed based on user input. For example:
-     - The `User ID` is extracted if required.
+     - The `Post ID` is extracted if required.
      - Metrics such as average likes or comments are calculated for different post types.
 
 4. **AI-Powered Insights**:
