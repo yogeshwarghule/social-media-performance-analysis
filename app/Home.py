@@ -341,7 +341,7 @@ with col2:
     with col_button2:
         st.link_button(
             'View Demo 📺',
-            url=f"https://www.youtube.com/watch?v=gtmDI0b8U-Q",
+            url=f"https://youtu.be/jUAeS3R44os",
         )
 
 # Features Section with updated titles and descriptions
