@@ -1,5 +1,8 @@
 import streamlit as st
+import os 
 
+current_dir = os.path.dirname(os.path.abspath(__file__))
+image_path = os.path.join(current_dir, "static/images/hp_image.png")
 # Set page configuration
 st.set_page_config(page_title="Social Media Analytics", layout="wide", initial_sidebar_state="collapsed")
 
@@ -326,7 +329,7 @@ with col1:
     )
     
 with col2:
-    st.image("static/images/hp_image.png", use_container_width=True)
+    st.image(image_path, use_container_width=True)
 
 col1, col2, col3 = st.columns([2, 2, 2])
 
