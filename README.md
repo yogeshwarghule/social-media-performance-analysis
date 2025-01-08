@@ -120,4 +120,4 @@ This streamlined workflow ensures users can seamlessly analyze and gain actionab
 
 ## 🎥 Demo Video
 Watch the complete walkthrough of the Social Media Analytics Tool:
-[Demo Video Link](#)
+[Demo Video Link](https://youtu.be/jUAeS3R44os)
