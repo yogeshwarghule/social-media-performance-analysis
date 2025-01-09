@@ -31,7 +31,7 @@ The **Social Media Analytics Tool** provides real-time insights into social medi
 
 ## 📊 Architecture
 
-![Architecture Diagram](images/architecture-diagram.png.png)
+![Architecture Diagram](images/langflow-workflow.png)
 
 ---
 
